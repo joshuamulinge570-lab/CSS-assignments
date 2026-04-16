@@ -1,4 +1,27 @@
-#start {color:darkblue;}
-.listings {color:greenyellow;}
-.Names {color:darkblue;}
-#italics {color:darkorange;}
+#heading {
+  font-family: "Times New Roman", Times, serif;
+  color: yellowgreen;
+  font: size 36px;
+  text-align: center;
+}
+
+.listings {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: red;
+  line-height: normal;
+  font-style: italic;
+  font-weight: 300;
+  font-size: large;
+}
+.Names {
+  color: blue;
+}
+p {
+  color: darkorange;
+}
+.mile {
+  color: blueviolet;
+}
+.tile {
+  color: cadetblue;
+}
